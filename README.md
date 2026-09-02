@@ -34,4 +34,4 @@ Some of the key types of projects in this repository include:
 3. Run and follow the prompts in the console.  
 
 ## 📫 Contact
-- GitHub: [albhrawyjmal157-star](https://github.com/albhrawyjmal157-star)
+- GitHub: [GamalAlbhrawy](https://github.com/GamalAlbhrawy)
